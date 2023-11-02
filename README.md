@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [example](https://your-live-site-url.com)
+- Live Site URL: [Click here](https://abelparayil.github.io/Results_Summary_Component_frontendmentor.io/)
 
 ## My process
 
